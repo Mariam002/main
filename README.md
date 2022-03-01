@@ -5,7 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title> DESIGN PROCESS </title>
 
-	<link rel="stylesheet" href= Style.CSS>
+	<link rel="stylesheet" href= "Style.CSS">
 </head> 
 <body>
 
