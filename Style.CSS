@@ -6,7 +6,7 @@ box sizing: border-box; }
 @import url("https://fonts.googleapis.com/css2?family=Spartan:wght@600&display=swap");
 
 body {
-    background: lightskyblue;
+    background: plum;
 
 }
 
@@ -236,16 +236,16 @@ left: 150px;
 
 
 h1 {
-    font-family: 'Spartan', sans-serif;
+    font-family: 'Futura', sans-serif;
     font-size: 200px;
-    line-height: 0.9em;
-    color: white;
+    line-height: 1em;
+    color: rebeccapurple;
 }
 
-h2 {font-family:'Arial', sans-serif;
-font-size: 100px;
+h2 {font-family:'Spartan', sans-serif;
+font-size: 70px;
 line-height: 0.9em;
-colour: black;
+color: white;
 
   }
 
