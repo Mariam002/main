@@ -236,12 +236,18 @@ left: 150px;
 
 
 h1 {
-    font-family:font-family: 'Abril Fatface', cursive;;
+    font-family: 'Abril Fatface', cursive;;
     font-size: 200px;
     line-height: 0.9em;
     color: white;
 }
 
+h2 {font-family:'Arial', sans-serif;
+font-size: 100px;
+line-height: 0.9em;
+colour: black;
+
+  }
 
 
 
