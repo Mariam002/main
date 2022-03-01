@@ -242,12 +242,23 @@ h1 {
     color: rebeccapurple;
 }
 
-h2 {font-family:'Spartan', sans-serif;
+h2 {
+
+font-family:'Spartan', sans-serif;
 font-size: 70px;
 line-height: 0.9em;
 color: white;
 
   }
+ 
+ h3 { 
+
+font-family:'Times New Roman', sans-serif;
+font-size: 40px;
+line-height: 0.9em;
+color: white;
+}
+
 
 
 
