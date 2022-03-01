@@ -2,6 +2,9 @@
 margin: 0;
 box sizing: border-box; }
 */
+
+@import url('https://fonts.googleapis.com/css2?family=League+Gothic&display=swap');
+
 body {
     background: lightskyblue;
 
@@ -228,6 +231,15 @@ left: 150px;
 
 
 
+}
+
+
+
+h1 {
+    font-family: 'League Gothic', sans-serif;
+    font-size: 300px;
+    line-height: 0.9em;
+    color: pink;
 }
 
 
