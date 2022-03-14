@@ -1,0 +1,45 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Spartan:wght@600&display=swap");
+
+body {
+    background: plum;
+
+}
+
+
+h1 {
+    font-family: 'Futura', sans-serif;
+    font-size: 150px;
+    line-height: 1em;
+    color: rebeccapurple;
+}
+
+a:link,
+    a:visited {
+
+        color: white
+    }
+
+h2 {
+
+font-family:'Spartan', sans-serif;
+font-size: 40px;
+line-height: 0.9em;
+color: white;
+
+  }
+ 
+ h3 { 
+
+font-family:'Times New Roman', sans-serif;
+font-size: 40px;
+line-height: 0.9em;
+color: white;
+}
+
+
+
+
+
+
+
