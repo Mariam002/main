@@ -10,8 +10,8 @@ body {
 
 }
 
-
 /*
+
 .box1{ 
 
 width: 100px;
@@ -228,6 +228,10 @@ left: 150px;
     bottom: 3592px;
     left:  498px;
 
+
+
+
+
 }
 */
 
@@ -245,11 +249,11 @@ a:link,
 
         color: white
     }
-h2{  
 
+h2 {
 
-font-family:'Spartan', sans-serif;/Users/mariamchaparian/Documents/main-website/images
-font-size: 35px;
+font-family:'Spartan', sans-serif;
+font-size: 40px;
 line-height: 0.9em;
 color: white;
 
@@ -262,6 +266,7 @@ font-size: 40px;
 line-height: 0.9em;
 color: white;
 }
+
 
 
 
