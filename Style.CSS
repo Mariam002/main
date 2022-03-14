@@ -240,10 +240,16 @@ h1 {
     color: rebeccapurple;
 }
 
-h2 {
+a:link,
+    a:visited {
+
+        color: white
+    }
+h2{  
+
 
 font-family:'Spartan', sans-serif;/Users/mariamchaparian/Documents/main-website/images
-font-size: 30px;
+font-size: 35px;
 line-height: 0.9em;
 color: white;
 
