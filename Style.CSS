@@ -12,22 +12,6 @@ body {
 
 
 
-
-
-
-
-.box1{ 
-
-width: 100px;
-height: 400px;
-background: green;
-margin: 150px;
-
-position: relative;
-top: 50px;
-left: 50px;
-}
-
 /*
 .box2 {
 
@@ -199,6 +183,8 @@ left: 150px;
 
 
 h1 {
+
+
     font-family: 'Futura', sans-serif;
     font-size: 200px;
     line-height: 1em;
@@ -214,7 +200,7 @@ a:link,
 h2 {
 
 font-family:'Spartan', sans-serif;
-font-size: 40px;
+font-size: 25px;
 line-height: 0.9em;
 color: white;
 
@@ -229,6 +215,23 @@ color: white;
 }
 
 
+.container1{ 
+
+width: 1700px;
+height: 200px;
+background:#6B8E23;
+margin: 150px;
+position:fixed;
+top: -220px;
+left: -160px;
+}
+
+.container1 h2 {
+    margin: 150px;
+    padding-left: 650px;
+    padding-top: -50px;
+
+}
 
 
 

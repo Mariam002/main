@@ -6,8 +6,6 @@ body {
 
 }
 
-//confounding tools //
-
 h1 {
     font-family: 'Futura', sans-serif;
     font-size: 150px;
@@ -41,6 +39,28 @@ color: white;
 
 
 
+.parent {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+
+.image1 {
+
+    position: relative;
+    top: 9px;
+    left: 180px;
+     border: 1px solid #000000;
+
+ }
+
+.image2{
+position: absolute;
+top: 9px;
+left: 677px;
+border: 1px solid #000000;
+
+}
 
 
 
