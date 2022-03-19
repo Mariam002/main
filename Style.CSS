@@ -6,179 +6,9 @@ box sizing: border-box; }
 @import url("https://fonts.googleapis.com/css2?family=Spartan:wght@600&display=swap");
 
 body {
-    background: plum;
+    background: #ffb6c1 ;
 
 }
-
-
-
-/*
-.box2 {
-
-width:  100px;
-height: 100px;
-background: green;
-margin: 150px; 
-
-position: relative;
-bottom: 500px;
-left: 150px;
- 
- }
-
- .box3 {
-
-    width: 100px;
-    height: 100px;
-    background: pink;
-    margin: 150px; 
-
-    position: relative; 
-    bottom: 850px;
-    left:  150px;
-}
-
-.box4 { 
-
-    width: 100px;
-    height: 100px;
-    background: hotpink;
-    margin: 150px;
-
-    position: relative;
-    bottom: 900px;
-    left: 150px;
-
- }
-
-.box5 { 
-
-    width: 100px;
-    height: 100px;
-    background: hotpink;
-    margin: 150px;
-
-    position: relative;
-    bottom: 1380px;
-    left: 228px;
-
-}
-
-
-.box6 {
-
-    width: 100px;
-    height: 100px;
-    background: pink;
-    margin: 118px;
-
-    position: relative;
-    bottom: 1580px;
-    left: 280px;
-
-}
-
-.box7 {
-
-    width: 100px;
-    height: 100px;
-    background: hotpink;
-    margin: 118px;
-
-    position: relative;
-    bottom: 1755px;
-    left: 216px;
-}
-
-.box8 {
-
-    width: 100px;
-    height: 100px;
-    background: pink;
-    margin: 118px;
-
-    position: relative;
-    bottom: 1807px;
-    left: 281px;
-}
-
-.box9 {
-
-    width: 100px;
-    height: 100px;
-    background: pink;
-    margin: 118px;
-
-    position: relative;
-    bottom: 2153px;
-    left: 270px;
-}
-
-.box10 {
-
-    width: 100px;
-    height: 100px;
-    background: hotpink;
-    margin: 118px;
-
-    position: relative;
-    bottom: 2338px;
-    left: 270px;
-
-}
-
-.box11 { 
-
-    width: 100px;
-    height: 100px;
-    background: hotpink;
-    margin: 118px;
-
-    position: relative;
-    bottom: 2648px;
-    left: 370px;
-
-}
-
-.box12 {
-
-    width: 100px;
-    height: 100px;
-    background: pink;
-    margin: 118px;
-
-    position: relative;
-    bottom: 2766px;
-    left: 181px;
-
-}
-
-
-.box13 {
-
-    width: 100px;
-    height: 100px;
-    background: pink;
-    margin: 118px;
-
-    position: relative;
-    bottom: 2992px;
-    left: 350px;
-
-}
-
-.M-left {
-
-    width:  50px;
-    height:  200px;
-    background: royalblue;
-    transform: skew(0deg);
-    transform-orgin: 100% 100%;
-    position: relative;
-    bottom: 2992px;
-    left:  350px;
-}
-*/
 
 
 
@@ -199,9 +29,12 @@ a:link,
 
 h2 {
 
+margin: 150px;
 font-family:'Spartan', sans-serif;
 font-size: 25px;
 line-height: 0.9em;
+top: -220px;
+left: -160px;
 color: white;
 
   }
@@ -215,10 +48,10 @@ color: white;
 }
 
 
-.container1{ 
+header { 
 
-width: 1700px;
-height: 200px;
+height: 150px;
+width: 1000%;
 background:#6B8E23;
 margin: 150px;
 position:fixed;
@@ -226,14 +59,83 @@ top: -220px;
 left: -160px;
 }
 
-.container1 h2 {
+.reading_resonses {
+
+    display: grid;
+    grid-template-columns: 20%,20%,20%,20%,20%;
+
+
+}
+
+
+.rebeccapurple{
+
+    padding: 0;
+    margin: 150px;
+    box sizing: border-box; 
+    height: 300px;
+    width: 300px;
+    border: 0px solid #000;
+    background:rebeccapurple;
+}
+
+.rebeccapurple2{
+
+padding: 0;
+    margin: 150px;
+    position: relative;
+    top: -450px;
+    left: 400px;
+    box sizing: border-box;
+    height: 300px;
+    width: 300px;
+    border: 0px solid #000;
+    background: rebeccapurple;
+
+
+}
+
+.rebeccapurple3{
+
+  
+  padding: 0;
+    margin: 150px;
+    position: relative;
+    top: -900px;
+    left: 800px;
+    box sizing: border-box; 
+    height: 300px;
+    width: 300px;
+    border: 0px solid #000;
+    background:rebeccapurple;
+
+}
+
+.project1 {
+
+    padding: 0;
+    margin: 150px;
+     position: relative;
+     top: -970px;
+    left: 0px;
+    box sizing: border-box; 
+    height: 600px;
+    width: 1100px;
+    border: 0px solid #000;
+    background:rebeccapurple;
+}
+
+
+
+
+}
+
+/*.container1 h2 {
     margin: 150px;
     padding-left: 650px;
     padding-top: -50px;
 
 }
-
-
 
 
 
