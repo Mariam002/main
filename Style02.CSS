@@ -6,6 +6,7 @@ body {
 
 }
 
+
 h1 {
     font-family: 'Futura', sans-serif;
     font-size: 150px;
@@ -21,6 +22,7 @@ a:link,
 
 h2 {
 
+margin: 100px;
 font-family:'Spartan', sans-serif;
 font-size: 40px;
 line-height: 0.9em;
@@ -28,12 +30,13 @@ color: white;
 
   }
  
- h3 { 
+  p { 
 
-font-family:'Times New Roman', sans-serif;
-font-size: 40px;
-line-height: 0.9em;
-color: white;
+margin: 100px;
+font-family:'Avenir', sans-serif;
+font-size: 30px;
+line-height: 1.5em;
+color: rebeccapurple;
 }
 
 

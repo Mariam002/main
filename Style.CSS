@@ -29,22 +29,23 @@ a:link,
 
 h2 {
 
-margin: 150px;
+margin: 100px;
 font-family:'Spartan', sans-serif;
-font-size: 25px;
+font-size: 40px;
 line-height: 0.9em;
 top: -220px;
 left: -160px;
-color: white;
+color: #6B8E23;
 
   }
  
- h3 { 
+ p { 
 
-font-family:'Times New Roman', sans-serif;
-font-size: 40px;
-line-height: 0.9em;
-color: white;
+margin: 100px;
+font-family:'Avenir', sans-serif;
+font-size: 30px;
+line-height: 1.5em;
+color: rebeccapurple;
 }
 
 
@@ -115,8 +116,8 @@ padding: 0;
 
     padding: 0;
     margin: 150px;
-     position: relative;
-     top: -970px;
+    position: relative;
+    top: -970px;
     left: 0px;
     box sizing: border-box; 
     height: 600px;
