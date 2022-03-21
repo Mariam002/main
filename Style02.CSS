@@ -6,6 +6,16 @@ body {
 
 }
 
+header { 
+
+height: 150px;
+width: 1000%;
+background:#6B8E23;
+margin: 150px;
+position:fixed;
+top: -220px;
+left: -160px;
+}
 
 h1 {
     font-family: 'Futura', sans-serif;
