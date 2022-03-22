@@ -10,12 +10,21 @@ header {
 
 height: 150px;
 width: 1000%;
-background:#6B8E23;
+background:rebeccapurple;
 margin: 150px;
 position:fixed;
 top: -220px;
 left: -160px;
 }
+
+.small-guy {
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 50px;
+    color: #ffb6c1;
+    text-align: center;
+}
+
 
 h1 {
     font-family: 'Futura', sans-serif;
