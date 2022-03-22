@@ -16,11 +16,23 @@ body {
 }
 
 
-header { 
+.h4 {
+
+ margin-top: 40px;
+ margin-left:20px;
+font-family: 'Futura', sans-serif;
+font-size: 15px;
+line-height: 1em;
+color: white;
+
+}
+
+
+header{ 
 
 height: 100px;
 width: 100%;
-background:rebeccapurple;
+background:#F55A7A;
 color: white;
 /*margin: 150px;*/
 position:fixed;
@@ -32,10 +44,14 @@ left: 0;
 
 
 h1 {
+
+    margin-top: 150px;
+    margin-left:50px;
     font-family: 'Futura', sans-serif;
     font-size: 150px;
     line-height: 1em;
     color: rebeccapurple;
+    text-align: left;
 }
 
 a:link,
@@ -47,16 +63,19 @@ a:link,
 h2 {
 
 margin: 100px;
+margin-left:50px;
 font-family:'Spartan', sans-serif;
 font-size: 40px;
 line-height: 0.9em;
-color: white;
+color: #F55A7A;
 
   }
+
  
   p { 
 
 margin: 100px;
+margin-left:50px;
 font-family:'Avenir', sans-serif;
 font-size: 30px;
 line-height: 1.5em;
