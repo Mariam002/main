@@ -10,6 +10,14 @@ body {
 
 }
 
+.small-guy {
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 50px;
+    color: #ffb6c1;
+    text-align: center;
+}
+
 
 h1 {
 
@@ -21,13 +29,6 @@ h1 {
     color: rebeccapurple;
 }
 
-.small-guy {
-    margin-top: 20px;
-    margin-left: 20px;
-    font-size: 50px;
-    color: #ffb6c1;
-    text-align: center;
-}
 
 a:link,
     a:visited {

@@ -1,29 +1,34 @@
 
 @import url("https://fonts.googleapis.com/css2?family=Spartan:wght@600&display=swap");
 
+
 body {
     background: #ffb6c1;
 
-}
-
-header { 
-
-height: 150px;
-width: 1000%;
-background:rebeccapurple;
-margin: 150px;
-position:fixed;
-top: -220px;
-left: -160px;
 }
 
 .small-guy {
     margin-top: 20px;
     margin-left: 20px;
     font-size: 50px;
-    color: #ffb6c1;
+    color: #ffb6c1 ;
     text-align: center;
 }
+
+
+header { 
+
+height: 100px;
+width: 100%;
+background:rebeccapurple;
+color: white;
+/*margin: 150px;*/
+position:fixed;
+top: 0;
+left: 0;
+
+}
+
 
 
 h1 {
@@ -60,7 +65,6 @@ color: rebeccapurple;
 
 
 
-
 .parent {
   position: relative;
   top: 0;
@@ -83,6 +87,7 @@ left: 677px;
 border: 1px solid #000000;
 
 }
+
 
 
 
