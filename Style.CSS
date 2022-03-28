@@ -10,6 +10,14 @@ body {
 
 }
 
+.small-guy {
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 50px;
+    color: #ffb6c1;
+    text-align: center;
+}
+
 .h4 {
 
  margin-top: 40px;
@@ -20,15 +28,6 @@ line-height: 1em;
 color: white;
 
 }
-
-.small-guy {
-    margin-top: 20px;
-    margin-left: 20px;
-    font-size: 50px;
-    color: #ffb6c1;
-    text-align: center;
-}
-
 
 header { 
 
@@ -84,6 +83,16 @@ color: rebeccapurple;
 }
 
 
+.MC-LOGO { 
+
+    position: relative;
+    top: 9px;
+    left: 180px;
+     border: 1px solid #000000;
+
+
+
+}
 
 #container {
     margin-top: 150px;
