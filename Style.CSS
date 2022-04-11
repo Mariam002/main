@@ -69,6 +69,8 @@ top: -220px;
 left: -160px;
 color: #F55A7A;
 
+
+
   }
 
 
@@ -85,10 +87,11 @@ color: rebeccapurple;
 
 .MC-LOGO { 
 
-    position: relative;
-    top: 9px;
-    left: 180px;
-     border: 1px solid #000000;
+position: absolute;
+top: 9px;
+left: 677px;
+border: 1px solid #000000;
+
 
 
 
