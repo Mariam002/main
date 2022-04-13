@@ -55,9 +55,10 @@ h1 {
 }
 
 a:link,
-    a:visited {
+    a:visited, {
 
-        color: white
+        color: white;
+        text-decoration: none;
     }
 
 h2 {

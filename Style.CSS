@@ -49,14 +49,17 @@ h1 {
     font-family: 'Futura', sans-serif;
     font-size: 180px;
     line-height: 1em;
+    letter-spacing: 0em;
     color: rebeccapurple;
 }
 
 
 a:link,
-    a:visited {
+    a:visited,{
 
-        color: white
+        color: white;
+        text-decoration: none;
+
     }
 
 h2 {
