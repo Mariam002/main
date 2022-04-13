@@ -11,8 +11,9 @@ body {
     margin-top: 20px;
     margin-left: 20px;
     font-size: 50px;
-    color: #ffb6c1 ;
+    color: #ffb6c1;
     text-align: center;
+    letter-spacing: 0mm;
 }
 
 
@@ -50,12 +51,15 @@ h1 {
     font-family: 'Futura', sans-serif;
     font-size: 150px;
     line-height: 1em;
+    letter-spacing: -1mm;
     color: rebeccapurple;
     text-align: left;
 }
 
 a:link,
-    a:visited, {
+    a:visited
+
+    {
 
         color: white;
         text-decoration: none;

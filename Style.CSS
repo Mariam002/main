@@ -16,6 +16,7 @@ body {
     font-size: 50px;
     color: #ffb6c1;
     text-align: center;
+    letter-spacing: 0mm;
 }
 
 .h4 {
@@ -49,13 +50,13 @@ h1 {
     font-family: 'Futura', sans-serif;
     font-size: 180px;
     line-height: 1em;
-    letter-spacing: 0em;
+    letter-spacing: 0.10mm;
     color: rebeccapurple;
 }
 
 
 a:link,
-    a:visited,{
+    a:visited {
 
         color: white;
         text-decoration: none;
@@ -67,7 +68,7 @@ h2 {
 margin: 100px;
 font-family:'Spartan', sans-serif;
 font-size: 40px;
-line-height: 0.9em;
+line-height: 1em;
 top: -220px;
 left: -160px;
 color: #F55A7A;
