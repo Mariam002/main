@@ -112,6 +112,35 @@ border: 1px solid #000000;
 
 }
 
+ }
+
+.image3{
+position: relative;
+top: 9px;
+left: 180px;
+border: 1px solid #000000;
+
+
+}
+
+.image4{
+ position: relative;
+top: 9px;
+left: 180px;
+border: 1px solid #000000;
+
+}
+
+.image5{
+position: relative;
+top: 9px;
+left: 677px;
+border: 0px solid #000000;
+
+}
+
+
+
 .P5-1{
 
 position: relative;
