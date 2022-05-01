@@ -7,19 +7,22 @@ body {
 
 }
 
-.small-guy {
-    margin-top: 20px;
-    margin-left: 20px;
+h3 {
+
+    margin-top: -45px;
+    margin-left: 0px;
+    font-family: 'Futura', sans-serif;
+    padding: 60px;
     font-size: 50px;
     color: #ffb6c1;
     text-align: center;
-    letter-spacing: 0mm;
-}
+    letter-spacing: 0mm; 
 
+}
 
 .h4 {
 
- margin-top: 40px;
+ margin-top: -146px;
  margin-left:20px;
 font-family: 'Futura', sans-serif;
 font-size: 15px;
